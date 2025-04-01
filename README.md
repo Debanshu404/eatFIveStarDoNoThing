@@ -1,12 +1,12 @@
 # eatFIveStarDoNoThing
 this that
-# 🛫 TravelEase - Inclusive Travel Booking Platform
+# 🛫 Paryatak - Inclusive Travel Booking Platform
 
 ## 🚀 Project Overview
-TravelEase is an advanced travel booking platform designed to cater to **everyone**, including **normal travelers, disabled individuals, and people with special needs**. Our mission is to ensure that travel is accessible, seamless, and comfortable for all. This platform will provide a **comprehensive booking experience**, offering flights, hotels, transport, and special assistance services.
+Paryatak is an advanced travel booking platform designed to cater to **everyone**, including **normal travelers, disabled individuals, and people with special needs**. Our mission is to ensure that travel is accessible, seamless, and comfortable for all. This platform will provide a **comprehensive booking experience**, offering flights, hotels, transport, and special assistance services.
 
 ## 🌍 Key Features
-- **Standard Travel Services**: Flight, hotel, and transportation booking.
+- **Standard Travel Services**:  hotel, and transportation booking.
 - **Accessibility Features**:
   - Wheelchair-friendly options.
   - Assistance booking (airport, hotel, transport).
