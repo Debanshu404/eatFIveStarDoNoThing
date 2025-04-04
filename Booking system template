@@ -1,0 +1,29 @@
+ About the Template:
+This modern and responsive landing page layout is originally tailored for car rental services, but we've adopted it as the base UI framework for Paryatak’s booking modules.
+
+ Purpose of Using This Template:
+Paryatak will provide a seamless experience for users to:
+
+Book Cabs
+
+Reserve Hotels
+
+Plan Travel Packages
+
+Rather than designing each section from scratch, we’re using this centralized template structure to maintain:
+ Visual consistency
+
+Faster development cycles
+
+ Mobile-first responsive design
+
+🛠 Planned Customizations:
+We will be modifying the:
+
+Theme colors to match Paryatak’s branding
+
+Typography and icons to ensure accessibility and uniqueness
+
+Content (texts, CTAs, booking sections) to align with our three core services
+
+This makes the template highly scalable for future modules while keeping the overall UI/UX intuitive and easy to navigate.
